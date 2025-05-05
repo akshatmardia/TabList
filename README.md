@@ -18,4 +18,4 @@ tools are not enabled, you can enable it inside the advanced tab.
 It's pretty easy to use, I'm sure you can figure it out.
 
 ### Note
-You can find the code if you look into the bundle.
+You can find the code if you look into the bundle. It's written in TypeScript, but Webpack bundles it into JS.
