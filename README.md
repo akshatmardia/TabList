@@ -9,7 +9,7 @@ each tab. Whenever they start doing that, I will release an update. I figured th
 as knowing which tab is hogging memory and adding to my already massive swap numbers. Now, I can at least find tabs if not judge them.
 
 ## Installation
-Just download the app and run it (double-click).
+Download the zip or clone it and run it (double-click).
 
 I don't have a developer ID (costs $99) which is why it's an unsigned extension. You will have to bypass GateKeeper and allow
 unsigned extensions in Safari via `Safari->Settings->Developer->Extensions: Allow unsigned extensions`. If developer
@@ -18,4 +18,4 @@ tools are not enabled, you can enable it inside the advanced tab.
 It's pretty easy to use, I'm sure you can figure it out.
 
 ### Note
-I will upload the code soon.
+You can find the code if you look into the bundle.
